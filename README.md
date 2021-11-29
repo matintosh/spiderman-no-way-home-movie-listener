@@ -1,13 +1,13 @@
-## Mac users only 
-# Setup
+# Mac users only 
+## Setup
 - `brew install watch`
 - `give permissions to interval.sh and script.sh`
 - `./interval`
 
-# interval.sh
+## interval.sh
 this is a script that will excecute `script.sh` every 12 seconds
 
-# script.sh
+## script.sh
 this script will call api.movie.com and get available movies, if there is a movie with something similar to spiderman no way home it will notify you 
 
 
